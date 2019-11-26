@@ -1,0 +1,3 @@
+# turbo-octo-funicular
+newbe learning to code for iOS, macOS, and iPadOS 
+You needn't waste your time - I know nothing and am a slow learner...
